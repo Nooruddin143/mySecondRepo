@@ -14,7 +14,7 @@ Feature: Retail Application Account Feature
     And User click on Update button
     Then User profile information should be updated
 
-
+ @addAddress
   Scenario: Verify User can add an Address
     When User click on Account option
     And User click on Add Address option

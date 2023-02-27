@@ -218,3 +218,12 @@
 2023-02-26 21:11:25,378 - logger_File -INFO - user clicked on Add address option
 2023-02-26 21:11:27,331 - logger_File -INFO - user filled the new address form with information provided in data table
 2023-02-26 21:11:27,471 - logger_File -INFO - user clicked on add your address button
+2023-02-26 21:19:15,164 - logger_File -INFO - user is on retail website
+2023-02-26 21:19:15,167 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-26 21:19:15,472 - logger_File -INFO - User clicked on Sign in Option
+2023-02-26 21:19:16,805 - logger_File -INFO - user entered email nooruddin.mohammadi@gmail.com and password Noorkhan@143
+2023-02-26 21:19:17,732 - logger_File -INFO - user clicked on login button
+2023-02-26 21:19:20,297 - logger_File -INFO - user clicked on Account option
+2023-02-26 21:19:20,617 - logger_File -INFO - user clicked on Add address option
+2023-02-26 21:19:22,576 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-02-26 21:19:22,740 - logger_File -INFO - user clicked on add your address button
